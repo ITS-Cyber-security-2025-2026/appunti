@@ -1,0 +1,53 @@
+
+/**/
+p {
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    background-color: yellow;
+}
+
+
+#p_id { /* generazione id */ 
+    color: pink
+}
+
+.p_class { /* generazione classi */
+    color: violet;
+}
+
+h1 {
+    color: blue;
+    font-size: 50px;
+    text-align: left;
+    background-color: green;
+}
+
+h2 {
+    color: purple;
+    font-size: 30px;
+    text-align: right;
+    background-color: orange;
+}
+
+h3 {
+    color: brown;
+    font-size: 25px;
+    text-align: center;
+    background-color: pink;
+}
+
+body {
+    background-color: gray;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+/*
+p,h1{ //usado la virgola posso definire lo stile per piu' tag insieme
+    
+}
+*/
